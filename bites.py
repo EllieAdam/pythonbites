@@ -4,7 +4,7 @@ if rain_speed < 5:
 else:
     print("It's a real Cow-quaker out there")
 
-#----------------
+#----------
 #---------
 Question2:
 Rock, paper, python gam:
