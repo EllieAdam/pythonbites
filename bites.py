@@ -33,6 +33,22 @@ else:
     print('You lose :( Computer wins :D')
 
 #------------
+Q: while loops in python
+Answer
+
+Packages = [package1, package2, package3]
+print(leng(packages))
+
+index = 0
+# 3 < 3
+
+while(index < len(packages)):
+	print(packages[index])
+	index = index + 1
+else:
+	print("no customer to print. index=" + str(index))
+
+#--
 Q: remove item from list
 Answer
 
