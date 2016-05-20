@@ -32,7 +32,7 @@ elif user_choice == 'python' and computer_choice == 'paper':
 else:
     print('You lose :( Computer wins :D')
 
-#------------
+#-------------
 Q: while loops in python
 Answer
 
