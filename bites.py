@@ -48,7 +48,7 @@ while(index < len(packages)):
 else:
 	print("no customer to print. index=" + str(index))
 
-#--
+#----
 Q: remove item from list
 Answer
 
